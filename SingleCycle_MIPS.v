@@ -24,7 +24,7 @@
 // data memory output signals  ReadDataMem
 // program counter/address     PCin, PCnext, JumpAddr, BranchAddr
 //=========================================================
-123456
+
 module SingleCycle_MIPS( 
     clk,
     rst_n,
